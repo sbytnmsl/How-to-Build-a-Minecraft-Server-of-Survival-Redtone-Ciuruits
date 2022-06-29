@@ -9,4 +9,4 @@ This introduction generally consists of five parts:
 4.How to avoid server crash;
 5.Suggestions on managing the server.
 
-All the infomation are in English here, however, a Chinese (Simplified) version can be found on [Bozhan Community] (https://community.bozhan.xyz).
+All the infomation are in English here, however, a Chinese (Simplified) version can be found on [Bozhan Community](https://community.bozhan.xyz).
